@@ -3,7 +3,7 @@
 <div align="center">
  <img  src="https://github.com/ahmedkhaled14/RestAssuredPractice/assets/68038931/2b7ff783-c922-4fdc-b6f6-6c62fedd8f0c" alt="test-light" width="1000" height="250" />
 
- # ✨  ☕️ java project ☕️ ✨
+ # ✨  💵 Banking System 💵 ✨
  </div>
 
 #### 🔊 this project included :
